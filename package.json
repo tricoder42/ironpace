@@ -1,0 +1,26 @@
+{
+  "name": "ironpace",
+  "version": "0.0.0",
+  "description": "Pace calculator for triathlon events",
+  "main": "ironpace/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tricoder42/ironpace.git"
+  },
+  "keywords": [
+    "react",
+    "ironman",
+    "triathlon",
+    "pace",
+    "calculator"
+  ],
+  "author": "Tomáš Ehrlich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tricoder42/ironpace/issues"
+  },
+  "homepage": "https://github.com/tricoder42/ironpace#readme"
+}
